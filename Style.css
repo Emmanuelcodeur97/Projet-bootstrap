@@ -1,0 +1,94 @@
+/* Styles personnalisés */
+
+/* Style de la section héros */
+.hero-section {
+  background-image: url('hero-background.jpg');
+  background-size: cover;
+  padding: 100px 0;
+  color: #fff;
+}
+
+.hero-section h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.hero-section p {
+  font-size: 1.2rem;
+  margin-bottom: 40px;
+}
+
+/* Style de la section des menus */
+.menu-item {
+  margin-bottom: 40px;
+}
+
+.menu-item img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 25px;
+}
+
+.menu-item h3 {
+  margin-top: 20px;
+}
+
+/* Style de la section À propos de nous */
+.about-section {
+  padding: 100px 0;
+}
+
+.about-section img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Style de la section Contacts */
+.contact-section {
+  padding: 100px 0;
+}
+
+.contact-section form {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.contact-section label {
+  font-weight: bold;
+}
+
+.contact-section input,
+.contact-section textarea {
+  margin-bottom: 20px;
+}
+
+.contact-section button {
+  margin-top: 20px;
+}
+
+/* Style du pied de page */
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footer p {
+  margin-bottom: 10px;
+}
+
+.footer ul {
+  padding: 0;
+  list-style: none;
+}
+
+.footer ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.footer ul li a {
+  color: #fff;
+  font-size: 24px;
+}
